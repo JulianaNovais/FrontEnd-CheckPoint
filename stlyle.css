@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300&display=swap');
+
+body{
+ background-image: url('https://offloadmedia.feverup.com/saopaulosecreto.com/wp-content/uploads/2020/07/19075110/%40andreiamarzola-819x1024.jpg');
+ padding: 0;
+ background-repeat: no-repeat;
+ background-size: cover;
+ margin: 0;
+
+}
+
+header{
+  background-color: #F4A460;
+  padding: 10px;
+
+}
+
+#titulo{
+    text-align: center;
+    font-family: 'Kaushan Script', cursive;
+    font-weight: 800;
+    color: #F5F5DC;
+}
+
+#subtitulo{
+  color: aliceblue;
+  font-size: 50px;
+  
+}
+
+
+#lista{
+  color:aliceblue;
+  list-style: disc;
+  font-family: 'Kalam', cursive;
+}
+
+#principal{
+    text-align: center;
+    padding: 10px;
+    font-family: 'Kalam', cursive;
+    font-size:  20px; 
+    color:#FFFAF0;
+
+}
+
+#rodape{
+  text-align: center;
+}
+
+#iconeInsta{
+  width:50px;
+  padding: 15px;
+}
+
+#iconeYou{
+  width: 50px;
+  padding: 15px;
+}
+
+#iconeTwi{
+  width: 50px;
+  padding: 15px;
+}
